@@ -1,9 +1,9 @@
 # WakfuCraft
 Changelog &amp; Bug Tracker for the Minecraft server WakfuCraft
 
-## Bug Tracker
+## Description
 
 This repository has been specially created to:
 
-- solve the problems you have encountered during your gaming experience.
-- publish the changelogs of the updates in detail.
+- Solve the problems you have encountered during your gaming experience.
+- Publish the changelogs of the updates in detail.
