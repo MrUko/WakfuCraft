@@ -14,7 +14,7 @@
 
 ### **Removed**:
 
-## [WakfuCraft V1.3](http://www.wakfucraft.ga/p/patch-note-v1-3) (2019-10-05)
+### [WakfuCraft V1.3](http://www.wakfucraft.ga/p/patch-note-v1-3) (2019-10-05)
 
 **Added**:
 
