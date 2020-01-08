@@ -1,6 +1,6 @@
 # Changelog WakfuCraft
 
-## [1.4.0](https://github.com/MrUko/) (2019-10-05)
+## [WakfuCraft 1.4](https://github.com/MrUko/) (2019-10-05)
 
 ### **Added**:
 
