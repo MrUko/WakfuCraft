@@ -1,5 +1,7 @@
 # Changelog WakfuCraft
 
+***Tip:*** *You can click on the title link to go to the site's changelog.*
+
 ## [WakfuCraft V1.4](http://www.wakfucraft.ga/p/patch-note-v1-4) (2020-01-05)
 
 ### **Added**:
