@@ -1,5 +1,5 @@
 # WakfuCraft
-#### Changelog &amp; Bug Tracker for the Minecraft server WakfuCraft
+#### [Changelog](https://github.com/MrUko/WakfuCraft/blob/master/CHANGELOG.md) &amp; [Bug Tracker](https://github.com/MrUko/WakfuCraft/issues) for the Minecraft server WakfuCraft
 
 ### Description
 
